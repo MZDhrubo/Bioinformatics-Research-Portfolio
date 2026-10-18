@@ -80,6 +80,4 @@ Tests validate core parsing and QC functions. They do not claim that MAFFT, Clip
 - Tree proximity alone does not prove orthology; sequence completeness, annotation, genomic context and synteny may be needed.
 - The public repository is not the authoritative archive for the unpublished study. Keep the original analysis and its data in a controlled private location.
 
-## Responsible portfolio use
 
-Review `CONTRIBUTIONS.md` before presenting this repository to an admissions committee. Describe your own work, code review, testing, and any AI-assisted development accurately. Be prepared to explain each function and each analytical choice yourself.
